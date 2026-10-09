@@ -32,7 +32,7 @@ nav{
 }
 
 .menu a{
-  justify-content: left;
+  align-items: left;
   padding: 15px 15px 15px 15px;
   font-size: 12px;
   text-decoration: none;
