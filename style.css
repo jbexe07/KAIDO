@@ -20,8 +20,7 @@ h1{
 }
 
 .logo img{
-  height: 20px;
-  widht: 50%;
+  width: auto;
   padding: 15px;
   display: block;
   margin: 0px auto 0px auto;
@@ -32,9 +31,9 @@ nav{
 }
 
 .menu a{
-  padding: 15px 15px 15px 15px;
+  padding: 15px;
   font-size: 12px;
   text-decoration: none;
-  font-family: Segoe UI, "Helvetica Neue", sans serif;
+  font-family: Segoe UI, "Helvetica Neue", sans-serif;
 }
 
