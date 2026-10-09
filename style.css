@@ -10,7 +10,7 @@
   margin: 5px auto;
   display: flex;
   align-items: center;
-  background: rgba(254, 253, 255, 0.5);
+  background: #f511ff;
 }
 
 .logo{
@@ -35,7 +35,7 @@ nav{
   color: #381932;
   display: inline-block;
   padding: 15px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   text-decoration: none;
   font-family: Segoe UI, "Helvetica Neue", sans-serif;
