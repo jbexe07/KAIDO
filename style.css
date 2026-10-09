@@ -20,7 +20,8 @@ h1{
 }
 
 .logo img{
-  width: auto;
+  height: 20px
+  width: 50%;
   padding: 15px;
   display: block;
   margin: 0px auto 0px auto;
