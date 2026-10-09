@@ -23,6 +23,10 @@ body{
   width: 30%;
 }
 
+.logo a{
+  display: block;
+}
+
 .logo img{
   height: 20px;
   width: auto;
