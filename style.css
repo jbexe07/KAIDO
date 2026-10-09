@@ -54,3 +54,7 @@ nav{
   font-family: Segoe UI, "Helvetica Neue", sans-serif;
   transition: background-color 0.2s;
 }
+
+.contatbtn:hover{
+  background-color: #6b3fa0;
+}
