@@ -32,6 +32,11 @@ nav{
   justify-content: right;
 }
 
+.menu{
+  justify-content: right;
+}
+
+
 .menu a{
   padding: 15px 15px 15px 15px;
   font-size: 12px;
