@@ -8,10 +8,9 @@ h1{
 }
 
 .linha{
-  padding: 10px 0px 10px 0px;
   border: 1px solid black;
   border-radius: 25px;
-  margin: 0px 150px 0px 150px;
+  margin: 5px 150px 5px 150px;
   display: flex;
   align-items: center;
 }
