@@ -41,10 +41,7 @@ nav{
   font-family: Segoe UI, "Helvetica Neue", sans-serif;
 }
 
-.contatbtn a{
-  align-items: center;
-  background: #381932;
+.contatbtn{
   border: 1px solid black;
   border-radius: 25px;
-  color: #F1F1F1
 }
