@@ -12,6 +12,7 @@ h1{
   border-radius: 25px;
   margin: 5px 25% 5px 25%;
   display: flex;
+  align-items: center;
 }
 
 .logo{
@@ -29,11 +30,6 @@ h1{
 nav{
   width: 70%;
 }
-
-.menu{
-  justify-content: left;
-}
-
 
 .menu a{
   padding: 15px 15px 15px 15px;
