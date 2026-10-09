@@ -56,6 +56,10 @@ nav{
   transition: background-color 0.2s;
 }
 
+.link:hover{
+  color: #6b3fa0;
+}
+
 .contatbtn:hover{
   background-color: #6b3fa0;
 }
