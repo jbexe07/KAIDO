@@ -43,6 +43,11 @@ nav{
 
 .contatbtn{
   border: 1px solid black;
-  border-radius: 25px;
-  padding: 5px;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: Segoe UI, "Helvetica Neue", sans-serif;
+  transition: background-color 0.2s;
 }
