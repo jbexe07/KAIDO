@@ -28,12 +28,15 @@ header{
   margin: 0px auto 0px auto;
 }
 
-.nav{
+nav{
   width: 70%;
 }
 
-.menu a{
+nav.menu{
   align-items: center;
+}
+
+.menu a{
   padding-left: 25px;
   font-size: 12px;
   text-decoration: none;
