@@ -1,11 +1,10 @@
-body{
+*{
   padding: 0px;
   margin: 0px;
+  box-sizing: border-box;
 }
-h1{
-  padding: 0px;
-  margin: 0px;
-}
+
+
 
 .linha{
   border: 1px solid black;
@@ -31,6 +30,7 @@ h1{
 
 nav{
   width: 70%;
+  text-align: center;
 }
 
 .menu a{
