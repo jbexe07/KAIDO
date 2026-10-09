@@ -44,8 +44,5 @@ nav{
 .contatbtn{
   border: 1px solid black;
   border-radius: 25px;
-}
-
-.contatbtn a{
   padding: 5px;
 }
