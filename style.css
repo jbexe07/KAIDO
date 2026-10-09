@@ -43,6 +43,7 @@ nav{
 }
 
 .contatbtn{
+  box-shadow: 6px 2px 2px grey;
   background: #381932;
   color: #F1F1F1;
   border: 1px solid black;
