@@ -3,8 +3,6 @@
   margin: 0px;
 }
 
-
-
 .linha{
   border: 1px solid black;
   border-radius: 25px;
@@ -29,7 +27,7 @@
 
 nav{
   width: 70%;
-  text-align: center;
+  text-align: left;
 }
 
 .menu a{
