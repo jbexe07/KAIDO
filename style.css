@@ -1,1 +1,11 @@
-
+body{
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+  padding: 0px;
+  margin: 0px;
+}
+.linha{
+  display: flex;
+}
