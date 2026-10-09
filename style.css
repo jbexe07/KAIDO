@@ -24,7 +24,8 @@ h1{
 
 .menu a{
   padding-left: 25px;
-  font-size: 40px;
+  font-size: 12px;
   text-decoration: none;
+  font-family: Manrope, "Helvetica Neue", sans serif;
 }
 
