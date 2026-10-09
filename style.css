@@ -31,7 +31,7 @@ nav{
   text-align: center;
 }
 
-.link a{
+a .link{
   color: #381932;
   display: inline-block;
   padding: 15px;
