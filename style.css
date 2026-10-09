@@ -31,7 +31,7 @@ nav{
   text-align: center;
 }
 
-a .link{
+.link{
   color: #381932;
   display: inline-block;
   padding: 15px;
@@ -41,7 +41,7 @@ a .link{
   font-family: Segoe UI, "Helvetica Neue", sans-serif;
 }
 
-.contatbtn a{
+.contatbtn{
   border: 1px solid black;
   border-radius: 25px;
   padding: 5px;
