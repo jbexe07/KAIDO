@@ -43,6 +43,8 @@ nav{
 }
 
 .contatbtn{
+  background: #381932;
+  color: #F1F1F1;
   border: 1px solid black;
   border-radius: 20px;
   padding: 8px 20px;
