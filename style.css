@@ -32,14 +32,15 @@ nav{
   width: 70%;
 }
 
-nav.menu{
+.menu{
   align-items: center;
 }
 
 .menu a{
-  padding-left: 25px;
+  padding: 0px 0px 0px 25px;
   font-size: 12px;
   text-decoration: none;
   font-family: Segoe UI, "Helvetica Neue", sans serif;
+  display:block;
 }
 
