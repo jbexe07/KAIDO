@@ -23,12 +23,18 @@ body{
   width: 30%;
 }
 
+.logo a{
+  display: block;
+}
+
 .logo img{
-  height: 20px;
-  width: auto;
-  padding: 15px;
-  margin: 0px auto;
-  background: red;
+  box-sizing: content-box; 
+  height: 20px;            
+  width: auto;            
+  padding: 15px;            
+  display: block;         
+  margin: 0px auto;         
+  background: red;  
 }
 
 nav{
