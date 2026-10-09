@@ -9,6 +9,22 @@ h1{
 .linha{
   display: flex;
 }
+.logo{
+  width: 30%;
+}
+
 .logo img{
   height: 20px;
+  padding: 15px
 }
+
+.nav{
+  width: 70%;
+}
+
+.nav a{
+  padding: 15px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
